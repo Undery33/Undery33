@@ -3,8 +3,8 @@
 <a href="xodml1122@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=White"/></a>
 <a href="https://discord.gg/undery" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=White"/></a>
 
-### 😊 앞으로의 가능성을 개발하는 주니어 개발자, 홍태의 입니다. 👋
-===================================================================
+## 😊 앞으로의 가능성을 개발하는 주니어 개발자, 홍태의 입니다. 👋
+------------------------------------------------------------------
 ✔ **통신 또는 조립을 이용한 개발**에 관심이 많습니다.
 
 ✔ 팀 프로젝트 시 **리더** 역할을 맡아오며, **리더십**이 강점입니다.
