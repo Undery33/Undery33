@@ -16,5 +16,4 @@
 
 💻 **GitHub Analytics**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Undery33&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undery33&langs_count=10&layout=compact&theme=dark)
