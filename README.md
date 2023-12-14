@@ -11,10 +11,10 @@
 
 ✔ **HWP, PPT 등** 문서 작업도 가능합니다.
 
-✏ **Try Technique**
+### ✏ **Try Technique**
 
 <img src="https://img.shields.io/badge/C-302683?style=plastic&logo=c&logoColor=White"/> <img src="https://img.shields.io/badge/HTML5-302683?style=plastic&logo=html5&logoColor=White"/> <img src="https://img.shields.io/badge/CSS3-302683?style=plastic&logo=css3&logoColor=White"/> <img src="https://img.shields.io/badge/Python-302683?style=plastic&logo=python&logoColor=White"/> <img src="https://img.shields.io/badge/MicrosoftAzure-302683?style=plastic&logo=microsoftazure&logoColor=White"/> <img src="https://img.shields.io/badge/Git-302683?style=plastic&logo=git&logoColor=White"/> <img src="https://img.shields.io/badge/GitHub-302683?style=plastic&logo=github&logoColor=White"/> <img src="https://img.shields.io/badge/Git-302683?style=plastic&logo=git&logoColor=White"/> <img src="https://img.shields.io/badge/JavaScript-302683?style=plastic&logo=javascript&logoColor=White"/>
 
-💻 **GitHub Analytics**
+### 💻 **GitHub Analytics**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undery33&langs_count=10&layout=compact&theme=dark)
