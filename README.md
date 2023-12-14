@@ -1,7 +1,7 @@
-<a href="https://www.instagram.com/_undery" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=White"/></a>
-<a href="htu123132@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=White"/></a>
-<a href="xodml1122@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=White"/></a>
-<a href="https://discord.gg/undery" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=White"/></a>
+<a href="https://www.instagram.com/_undery" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=White"/></a>
+<a href="htu123132@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=White"/></a>
+<a href="xodml1122@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=White"/></a>
+<a href="https://discord.gg/undery" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=White"/></a>
 
 ## 😊 앞으로의 가능성을 개발하는 주니어 개발자, 홍태의 입니다. 👋
 
