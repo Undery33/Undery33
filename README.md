@@ -20,5 +20,5 @@
 <img src="https://img.shields.io/badge/JavaScript-302683?style=plastic&logo=javascript&logoColor=White"/>
 
 💻 GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Undery33ID&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undery33&langs_count=10&layout=compact&theme=dark)](https://github.com/Undery33/Undery33)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undery33&langs_count=10&layout=compact&theme=dark)](https://github.com/Undery33/Undery33)]
