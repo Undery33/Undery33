@@ -3,7 +3,7 @@
 <a href="xodml1122@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://discord.gg/undery" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 
-## 😊 앞으로의 가능성을 개발하는 주니어 개발자, 홍태의 입니다. 👋
+## 😊 앞으로의 가능성을 개발하는 개발자, 홍태의 입니다. 👋
 
 ✔ **AI를 접한 프론트앤드 및 챗봇에 관심이 많습니다.**
 
